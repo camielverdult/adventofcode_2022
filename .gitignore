@@ -147,3 +147,4 @@ cython_debug/
 .idea/
 input.txt
 cmake-build-*
+*.json
